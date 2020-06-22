@@ -95,6 +95,9 @@ p
 	margin : 40px;
 	position: relative;
 }
+.justify{
+	text-align: justify;
+}
 
 .left
 {
