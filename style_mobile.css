@@ -1,0 +1,65 @@
+ body
+{
+	
+	
+	flex-direction : column;
+}
+
+h3
+{	
+	font-size : 15px;		
+}
+
+
+
+.premierePartie
+{
+
+	max-width : inherit
+		
+}
+.conteneurHead {
+	height: 200px;	
+}
+
+
+
+.elementLigne {
+	
+	justify-content: flex-start;
+	flex-direction: column;
+	margin: 40 px;
+	
+}
+.left
+{
+
+margin : 5px;
+}
+.center
+{
+
+margin : 5px;
+width : inherit;
+}
+.right
+{
+	
+	margin : 5px;
+	width : inherit;
+}
+
+
+.deuxiemePartie {
+	max-width: inherit;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	padding: 0;
+}
+.alignement{
+flex-direction: column;}
+
+
+
+
